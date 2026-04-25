@@ -20,7 +20,7 @@
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,tailwind,php,mysql,flutter,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,tailwind,php,mysql,flutter,linux" />
 </p>
 
 ---
