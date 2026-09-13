@@ -1,27 +1,30 @@
 <h1 align="center">Hi 👋, I'm Aswathy VK</h1>
-<h3 align="center">🚀 Backend / Full-Stack Developer | Python • FastAPI • React • ML</h3>
+<h3 align="center">🚀 AI/ML & Full-Stack Developer | RAG · NLP · FastAPI · React</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+%2F+Full-Stack+Developer;FastAPI+%7C+React+%7C+Python;Applied+ML+%26+Data+Systems;Open+to+Opportunities&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+%26+Full-Stack+Developer;RAG+%7C+NLP+%7C+Drift+Detection;FastAPI+%7C+React+%7C+Python;Building+Deployed+AI+Products&center=true&width=520&height=45">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 MCA Graduate, CUSAT (2026) — building production-style apps solo
+- 🎓 MCA Graduate, CUSAT (2026), CGPA 8.02 — building production-style apps solo
+- 🧑‍💻 AI Tools Research & Testing Intern @ Expose Trendze (Mar–Jun 2026) — API validation, defect docs, Agile
 - 🚀 Backend-leaning full-stack dev: FastAPI/Django on the server, React on the front
 - 📊 Focused on applied ML — drift detection, NLP, RAG pipelines, forecasting
 - ⚙️ Strong in OOP, testing (pytest), REST API design, Agile
-- 🎯 Actively looking for Backend / Full-Stack / Python-ML roles
+- 🎯 Actively looking for AI/ML, Backend, and Full-Stack roles
 
 ---
 
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,js,tailwind,postgres,mysql,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,js,tailwind,postgres,mysql,docker,git,linux,pytorch" />
 </p>
+
+*PyTorch used indirectly via `sentence-transformers` (TalentTrace embeddings) — not hand-written model code.*
 
 ---
 
@@ -37,7 +40,7 @@
 ---
 
 ### 📄 StudyAI — AI PDF Tutor
-- FastAPI + React app that turns any PDF into an interactive tutor using Groq LLM
+- FastAPI + React app that turns any PDF into an interactive tutor using Groq LLM (LLaMA 3.3-70B)
 - Deployed end-to-end (Render + Vercel)
 - **Live:** https://ai-pdf-tutor-seven.vercel.app
 
@@ -84,11 +87,8 @@
 ---
 
 ## 📜 Certifications
-Oracle Agentic AI Certified Foundations Associate · Meta — Programming in Python
+Oracle — Agentic AI Certified Foundations Associate · Meta — Programming in Python
 IBM — Python for Data Science, AI & Development · SAS — SQL
-
-## 🧩 Currently Learning
-Docker/Kubernetes fundamentals · CI/CD (GitHub Actions) · Cloud deployment (AWS/GCP)
 
 ---
 
